@@ -17,8 +17,8 @@
     <url>http://www.example.com</url>
 
     <modules>
-        <module>../mavenjavatest</module>
-        <module>../learnmavenwebapp</module>
+        <module>mavenjavatest</module>
+        <module>learnmavenwebapp</module>
     </modules>
 
 <build>
